@@ -8,7 +8,7 @@
         }
     ],
     "require": {
-        "hackzilla/test": "2.0.*"
+        "hackzilla/test": "dev-master"
     },
     "authors": [
         {
